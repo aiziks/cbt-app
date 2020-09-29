@@ -7,7 +7,7 @@
 </head>
 <body>
     
-    <h1>Welcome to Git And Github at Index Page</h1>
 
+    <h1>About Page</h1>
 </body>
 </html>
