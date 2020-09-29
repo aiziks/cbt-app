@@ -1,0 +1,12 @@
+{
+  "name": "Adedayo Isaac",
+  "school": "OAU",
+  "phone": "08038616501",
+  "age": 30,
+  "sport": "football",
+   "states" : {"name1":"Oyo",
+                "name3":"Ekiti",
+                "name4":"Lagos",
+                "name5":"Abia"
+                }
+  }
